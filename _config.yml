@@ -3,7 +3,7 @@ title: Enkya | A place to entertain nothing more than logic
 email: bruce.bigirwenkya@andela.com
 description: Some text about your blog.
 baseurl: "/enkya" # the subpath of your site, e.g. /blog
-url: "https://www.elbertbiggs360.github.io" # the base hostname & protocol for your site
+url: "https://elbertbiggs360.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
